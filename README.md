@@ -1,11 +1,9 @@
-Hello! I'm Annafi Mirza, born and raised in Florida! I'm an undergraduate student
-at the University of Miami doing a double major in Computer Science (w/ a focus in
-cybersecurity) and Data Science & Artificial Intelligence.
+Born and raised in Florida! 🐊
 
-Right now, I'm studying primarily Java and R and will eventually delve deeper into
-Python, Assembly, and C. I also have experience in HTML, CSS, Javascript, and PHP
-from developing websites as the lead developer of a coding group in high school. My
-repositories contain projects exemplifying my skills in these languages.
+Currently working towards a double major in both Computer Science (Cryptography & Security Track) and Data Science & Artificial Intelligence, as well as a minor in Mathematics.
 
-I hope to become either an IT specialist or data engineer one day, depending on what
-major I choose to stick with primarily. Watch as my projects evolve with me over time!
+I am a part of the university’s Foote Fellows Honors program.
+
+As shown in my projects, I am diving deep into Java for developing advanced solution-oriented programs, as well as Python, R, and their many libraries for developing and utilizing machine learning algorithms for training models.
+
+I aspire to become a data engineer / scientist very soon in the Miami region!
